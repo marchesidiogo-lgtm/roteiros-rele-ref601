@@ -8,10 +8,10 @@ Os valores de ajuste usados nos roteiros são didáticos. Não representam estud
 
 | N. | Tema | Arquivo |
 |----|------|---------|
-| 1 | Comissionamento de segurança e configuração de TCs | [Roteiro_1](roteiros/Roteiro_1_Comissionamento_e_Configuracao_de_TCs.pdf) |
-| 2 | Proteção de fase e terra | [Roteiro_2](roteiros/Roteiro_2_Protecao_de_Fase_e_Terra.pdf) |
-| 3 | Mapeamento de sinais, LEDs e supervisão de trip (ANSI 74TC) | [Roteiro_3](roteiros/Roteiro_3_Mapeamento_de_Sinais_LEDs_e_Supervisao_de_Trip.pdf) |
-| 4 | Bloqueios, intertravamentos e duplo grupo de ajustes | [Roteiro_4](roteiros/Roteiro_4_Bloqueios_Intertravamentos_e_Duplo_Grupo.pdf) |
+| 1 | Comissionamento de segurança e configuração de TCs | [Roteiro_1](roteiros/Roteiro%201%20Comissionamento%20e%20Configuracao%20de%20TCs%20REF601%20.pdf) |
+| 2 | Proteção de fase e terra | [Roteiro_2](roteiros/Roteiro%202%20Protecao%20de%20Fase%20e%20Terra%20REF601.pdf) |
+| 3 | Mapeamento de sinais, LEDs e supervisão de trip (ANSI 74TC) | [Roteiro_3](roteiros/Roteiro%203%20Mapeamento%20de%20Sinais%20LEDs%20e%20Supervisao%20de%20Trip.pdf) |
+| 4 | Bloqueios, intertravamentos e duplo grupo de ajustes | [Roteiro_4](roteiros/Roteiro%204%20Bloqueios%20Intertravamentos%20e%20Duplo%20Grupo%20.pdf) |
 
 Os roteiros são sequenciais: cada um assume o anterior concluído.
 
@@ -25,4 +25,4 @@ Daniel Almeida Arpini, Diogo Prezotti Marchesi, Douglas Borges Brito. Orientador
 
 ## Como citar
 
-ARPINI, Daniel Almeida; MARCHESI, Diogo Prezotti; BRITO, Douglas Borges. *Roteiros práticos para o relé REF601/REJ601 via IHM*. Guarapari: Instituto Federal do Espírito Santo, 2026. Disponível em: <INSERIR LINK>. Acesso em: 17 nov. 2026.
+ARPINI, Daniel Almeida; MARCHESI, Diogo Prezotti; BRITO, Douglas Borges. *Roteiros práticos para o relé REF601/REJ601 via IHM*. Guarapari: Instituto Federal do Espírito Santo, 2026. Disponível em: https://github.com/marchesidiogo-lgtm/roteiros-rele-ref601. Acesso em: 17 nov. 2026.
