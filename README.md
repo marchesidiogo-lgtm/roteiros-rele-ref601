@@ -21,7 +21,7 @@ ABB REJ601BE446NB1BH, versão 2.2 FP1, variante CT. Referência: ABB, *Relion 60
 
 ## Autores
 
-Daniel Almeida Arpini, Diogo Prezotti Marchesi, Douglas Borges Brito. Orientador: MurilLo Cobe Vargas.
+Daniel Almeida Arpini, Diogo Prezotti Marchesi, Douglas Borges Brito. Orientador: Murillo Cobe Vargas.
 
 ## Como citar
 
