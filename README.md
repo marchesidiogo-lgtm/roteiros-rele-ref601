@@ -25,4 +25,4 @@ Daniel Almeida Arpini, Diogo Prezotti Marchesi, Douglas Borges Brito. Orientador
 
 ## Como citar
 
-ARPINI, Daniel Almeida; MARCHESI, Diogo Prezotti; BRITO, Douglas Borges. *Roteiros práticos para o relé REF601/REJ601 via IHM*. Guarapari: Instituto Federal do Espírito Santo, 2026. Disponível em: https://github.com/marchesidiogo-lgtm/roteiros-rele-ref601. Acesso em: 17 nov. 2026.
+ARPINI, Daniel Almeida; MARCHESI, Diogo Prezotti; BRITO, Douglas Borges. *Roteiros práticos para o relé REF601/REJ601 via IHM*. Guarapari: Instituto Federal do Espírito Santo, 2026. Disponível em: https://github.com/marchesidiogo-lgtm/roteiros-rele-rej601. Acesso em: 17 nov. 2026.
