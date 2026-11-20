@@ -9,7 +9,7 @@ Os valores de ajuste usados nos roteiros são didáticos. Não representam estud
 | N. | Tema | Arquivo |
 |----|------|---------|
 | 1 | Comissionamento de segurança e configuração de TCs | [Roteiro_1](roteiros/Roteiro%201%20Comissionamento%20e%20Configuracao%20de%20TCs%20REF601%20.pdf) |
-| 2 | Proteção de fase e terra | [Roteiro_2](roteiros/Roteiro%202%20Protecao%20de%20Fase%20e%20Terra%20REF601.pdf) |
+| 2 | Proteção de fase e terra | [Roteiro_2](roteiros/Roteiro%202%20Protecao%20de%20Fase%20e%20Terra%20REJ601.pdf) |
 | 3 | Mapeamento de sinais, LEDs e supervisão de trip (ANSI 74TC) | [Roteiro_3](roteiros/Roteiro%203%20Mapeamento%20de%20Sinais%20LEDs%20e%20Supervisao%20de%20Trip.pdf) |
 | 4 | Bloqueios, intertravamentos e duplo grupo de ajustes | [Roteiro_4](roteiros/Roteiro%204%20Bloqueios%20Intertravamentos%20e%20Duplo%20Grupo%20.pdf) |
 | 5 | Questionário de avaliação dos roteiros (aplicado aos estudantes que validaram os roteiros) | [Questionário](roteiros/Questionario_Avaliacao_Roteiros_REF601.pdf)|
