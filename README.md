@@ -12,7 +12,9 @@ Os valores de ajuste usados nos roteiros são didáticos. Não representam estud
 | 2 | Proteção de fase e terra | [Roteiro_2](roteiros/Roteiro%202%20Protecao%20de%20Fase%20e%20Terra%20REF601.pdf) |
 | 3 | Mapeamento de sinais, LEDs e supervisão de trip (ANSI 74TC) | [Roteiro_3](roteiros/Roteiro%203%20Mapeamento%20de%20Sinais%20LEDs%20e%20Supervisao%20de%20Trip.pdf) |
 | 4 | Bloqueios, intertravamentos e duplo grupo de ajustes | [Roteiro_4](roteiros/Roteiro%204%20Bloqueios%20Intertravamentos%20e%20Duplo%20Grupo%20.pdf) |
-| 5 | [Questionário](roteiros/Questionario_Avaliacao_Roteiros_REF601.pdf)
+| 5 | Questionário de avaliação dos roteiros (aplicado aos estudantes que validaram os roteiros) | [Questionário](roteiros/Questionario_Avaliacao_Roteiros_REF601.pdf)|
+
+Os roteiros são sequenciais: cada um assume o anterior concluído. O questionário é respondido uma única vez, após a execução dos quatro roteiros; a versão online pode ser criada no Google Forms com o script [`criar_questionario.gs`](criar_questionario.gs).
 ## Equipamento
 
 ABB REJ601BE446NB1BH, versão 2.2 FP1, variante CT. Referência: ABB, *Relion 605 Series: REJ601/REF601/REM601 Application Manual*, Rev. C, 1MDU07212-YN, 2014.
